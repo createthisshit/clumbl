@@ -22,7 +22,7 @@ logger = logging.getLogger(__name__)
 TOKEN = "7241683107:AAEG6RCRM4Ar1sDYpTV8BsaHfGUj2WXobhI"  # Замени на токен от @BotFather
 YOOMONEY_WALLET = "4100118178122985"  # Замени на номер кошелька YooMoney (41001...)
 YOOMONEY_SECRET = "CoqQlgE3E5cTzyAKY1LSiLU1"  # Замени на секрет для уведомлений (из настроек YooMoney)
-WEBHOOK_URL = "your_koyeb_url/webhook"  # Замени на URL от Koyeb (например, https://your-app.koyeb.app/webhook)
+WEBHOOK_URL = "https://shocked-charin-createthisshit-620de28a.koyeb.app/"  # Замени на URL от Koyeb (например, https://your-app.koyeb.app/webhook)
 
 # Инициализация бота
 try:
